@@ -1,15 +1,12 @@
-# digit_classifier_v2.0 <br> <text style="font-size:2vw">*see also [digit_classifier_v1.0](https://github.com/andrea-cadeddu/digit_classifier)*</text>
+see also: [andrea-cadeddu/digit_classifier](https://github.com/andrea-cadeddu/digit_classifier)
+<br><br>
+# digit_classifier_v2.0
 
 *Image Classification*
 
 This project shows how to use deep learning to analyze digit images. <br> In addition, an extra part has been added where it is shown how you can create an interactive demo to show the model using [Gradio](https://github.com/gradio-app/gradio).  
 
-<center>
-<img src="https://www.researchgate.net/profile/Steven-Young-5/publication/306056875/figure/fig1/AS:393921575309346@1470929630835/Example-images-from-the-MNIST-dataset.png" class="center"  width="85%" height="auto">
-</center>   
-<p align="center" style="font-style: italic; font-size:2vw">
-Example images from the MNIST dataset.<br>
-</p>
+<img src="https://github.com/daniele-di-benedetto/digit_classifier_v2.0/blob/main/data/Example-images-from-the-MNIST-dataset.png" class="center"  width="75%" height="auto">
 
 ---
 ## Content of the notebooks
